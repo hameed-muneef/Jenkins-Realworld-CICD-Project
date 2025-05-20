@@ -12,5 +12,5 @@ filters:
   instance-state-name: running
 # Resource Grouping
 keyed_groups:
-  - key: tags
-    prefix: tag
+  - key: tags.Environment
+    prefix: tag_Environment
