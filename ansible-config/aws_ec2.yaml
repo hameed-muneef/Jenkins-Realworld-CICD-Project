@@ -4,7 +4,7 @@ regions:
   - eu-west-3
 filters:
   # Different Evironments
-  tag:Environment:
+  tag:Env:
     - dev
     - stage
     - prod
